@@ -1,0 +1,23 @@
+{
+	"5": {
+		"contract": "0x7a58b40A593f849560Fd7198b2910D6a3B250e6D",
+		"graph": "https://api.thegraph.com/subgraphs/name/moneymafia/autopayninja",
+		"rpc": "https://rpc.ankr.com/eth_goerli",
+		"name": "goerli",
+		"explorer": "https://goerli.etherscan.io"
+	},
+	"56": {
+		"contract": "0x7a58b40A593f849560Fd7198b2910D6a3B250e6D",
+		"graph": "https://api.thegraph.com/subgraphs/name/moneymafia/autopayninjabsc",
+		"rpc": "https://rpc.ankr.com/bsc",
+		"name": "bsc",
+		"explorer": "https://bscscan.com"
+	},
+	"137": {
+		"contract": "0x7a58b40A593f849560Fd7198b2910D6a3B250e6D",
+		"graph": "https://api.thegraph.com/subgraphs/name/moneymafia/autopayninjamatic",
+		"rpc": "https://rpc.ankr.com/polygon",
+		"name": "matic",
+		"explorer": "https://polygonscan.com"
+	}
+}
