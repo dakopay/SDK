@@ -70,7 +70,7 @@ async function encodeSubscription(_networkId, _boss, _token, _cost, _initdays = 
 
 	var hash = toHex(obj) || null;
 
-	return { hash: hash, link: 'https://join.repa.gg/#/check/' + hash };
+	return { hash: hash, link: 'https://join.dakopay.com/#/check/' + hash };
 }
 
 async function decodeSubscription(_hash) {
