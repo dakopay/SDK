@@ -1,5 +1,5 @@
 {
-  "name": "repa-sdk",
+  "name": "dakopay-sdk",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/projectrepa/sdk.git"
+    "url": "git+https://github.com/dakopay/sdk.git"
   },
   "keywords": [],
   "author": "",
