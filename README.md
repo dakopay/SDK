@@ -1,2 +1,2 @@
 # SDK
-npm i projectrepa/SDK
+npm i dakopay/SDK
